@@ -5,7 +5,7 @@ Since 2007, we have been accompanying our clients with:
 - Cloud projects.
 
 
-## Our Philosophy.
+## Our Philosophy
 We **believe** that it is important to **support and help our clients** understand their needs **rather than to sell a quick fix**. That is why we usually start our work with an IT consulting phase followed by a development phase and taking over the project as the third phase.
 
 
